@@ -141,7 +141,7 @@ ul {
 }
 
 .article .article__container--img {
-  background-image: url(/img/background-img.png);
+  background-image: url(../img/background-img.png);
   background-repeat: no-repeat;
   background-position: center center;
 }
